@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "joke": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "id": 2,
+      "joke": "What do you call a fish wearing a crown? A kingfish!"
+    },
+    {
+      "id": 3,
+      "joke": "How does a penguin build its house? Igloos it together!"
+    },
+    {
+      "id": 4,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "id": 5,
+      "joke": "What do you call fake spaghetti? An impasta!"
+    },
+    {
+      "id": 6,
+      "joke": "Why don't skeletons fight each other? They don't have the guts!"
+    },
+    {
+      "id": 7,
+      "joke": "How do you organize a space party? You planet!"
+    },
+    {
+      "id": 8,
+      "joke": "What did one wall say to the other wall? I'll meet you at the corner!"
+    },
+    {
+      "id": 9,
+      "joke": "Why did the coffee file a police report? It got mugged!"
+    },
+    {
+      "id": 10,
+      "joke": "What do you call a snowman with a six-pack? An abdominal snowman!"
+    },
+    [
+        {
+          "id": 11,
+          "joke": "Why did the math book look sad? Because it had too many problems!"
+        },
+        {
+          "id": 12,
+          "joke": "What do you call a cheese that isn't yours? Nacho cheese!"
+        },
+        {
+          "id": 13,
+          "joke": "Why don't skeletons fight each other? They don't have the guts!"
+        },
+        {
+          "id": 14,
+          "joke": "How does a penguin build its house? Igloos it together!"
+        },
+        {
+          "id": 15,
+          "joke": "What did one hat say to the other? Stay here, I'm going on ahead!"
+        },
+        {
+          "id": 16,
+          "joke": "Why don't oysters donate to charity? Because they are shellfish!"
+        },
+        {
+          "id": 17,
+          "joke": "How do you catch a squirrel? Climb a tree and act like a nut!"
+        },
+        {
+          "id": 18,
+          "joke": "What's brown and sticky? A stick!"
+        },
+        {
+          "id": 19,
+          "joke": "Why did the bicycle fall over? Because it was two-tired!"
+        },
+        {
+          "id": 20,
+          "joke": "What's orange and sounds like a parrot? A carrot!"
+        }
+      ]
+      
+  ]
+  
