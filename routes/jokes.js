@@ -34,4 +34,15 @@ router.get('/:id', (req, res) => {
   }
 });
 
+// Endpoint to handle POST requests
+router.post('/comment', (req, res) => {
+  // Access the JSON data sent by the client
+  const clientData = req.body;
+  console.log('Received JSON data:', clientData);
+  jokesData[(clientData.jokeId)-1].comment = clientData.comment;
+  // Respond to the client
+  res.send(clientData);
+
+});
+
 module.exports=router;
